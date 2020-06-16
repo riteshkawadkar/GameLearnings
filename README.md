@@ -23,10 +23,10 @@ Playfab Documentation - https://docs.microsoft.com/en-us/gaming/playfab/
 # Streams
 https://streamlabs.com/
 
-#Slides
+# Slides
 https://slidemodel.com/free-powerpoint-templates/page/28/
 
-#File Transfer
+# File Transfer
 https://gofile.io/welcome
 https://wetransfer.com/
 
